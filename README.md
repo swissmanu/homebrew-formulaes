@@ -1,6 +1,6 @@
-# brewformulaes
+# brewformulae
 
-Some [Homebrew](http://brew.sh/) formulaes not available somwhere else
+Some [Homebrew](http://brew.sh/) formulae not available somwhere else
 
 ## Usage
 
